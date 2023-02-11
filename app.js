@@ -1,11 +1,14 @@
 require("dotenv").config();
 const express = require('express');
 const app = express();
+var cors = require('cors')
 const connectDB = require('./db/connect');
 
 const PORT = process.env.PORT || 5000;
 
 const products_routes = require("./routes/products");
+
+app.use(cors())
 
 app.get('/', (req, res) => {
     res.send("Hi, I am live");
