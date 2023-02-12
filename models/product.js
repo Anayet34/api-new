@@ -17,7 +17,7 @@ const productSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
-    imageUrl: {
+    image: {
         type: String,
         required: true
     },
@@ -27,11 +27,10 @@ const productSchema = new mongoose.Schema({
     },
     company: {
         type: String,
-        required: true
-        // enum: {
-        //     values:["apple", "samsung", "dell", "mi"],
-        //     message: `{value} is not supported ` ,
-        // },
+        enum: {
+            values:["apple", "samsung", "dell", "mi"],
+            message: `{value} is not supported ` ,
+        },
     },
 });
 

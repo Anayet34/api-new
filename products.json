@@ -4,7 +4,7 @@
         "price": "154",
         "featured": true,
         "company": "apple",
-        "imageUrl": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
+        "image": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
         "description": "The mobile is compact with its 6.2-inch screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it."
     },
     {
@@ -12,35 +12,35 @@
         "price": "1154",
         "featured": true,
         "company": "apple",
-        "imageUrl": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
+        "image": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
         "description": "The mobile is compact with its 6.2-inch screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it."
     },
     {
         "name": "watch",
         "price": "204",
         "company": "apple",
-        "imageUrl": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
+        "image": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
         "description": "The mobile is compact with its 6.2-inch screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it."
     },
     {
         "name": "s20",
         "price": "404",
         "company": "samsung",
-        "imageUrl": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
+        "image": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
         "description": "The mobile is compact with its 6.2-inch screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it."
     },
     {
         "name": "Dell gaming",
         "price": "701",
         "company": "mi",
-        "imageUrl": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
+        "image": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
         "description": "The mobile is compact with its 6.2-inch screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it."
     },
      {
         "name": "Dell gaming1",
         "price": "701",
         "company": "mi",
-        "imageUrl": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
+        "image": "https://www.dropbox.com/s/oog76k5l1lblssz/smartphone-153650.png?dl=0",
         "description": "The mobile is compact with its 6.2-inch screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it."
      }   
 ]
